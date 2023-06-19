@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/gabrielabnsz">
    
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielabnsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielabnsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielabnsz&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielabnsz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
