@@ -1,4 +1,4 @@
-## Oie! Eu sou a Gabriela Bueno 👩‍💻
+## Hello! I am Gabriela Bueno 👩‍💻
 
 <div align="center">
   <a href="https://github.com/gabrielabnsz">
